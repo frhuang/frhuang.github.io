@@ -2052,7 +2052,7 @@ a.search-result {
   padding-left: 10px;
 }
 .use-motion .post {
-  opacity: 0;
+  /*opacity: 0;*/
 }
 .page-archive .archive-page-counter {
   position: relative;
